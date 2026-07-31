@@ -11,9 +11,9 @@ operating across 14 districts of Tamil Nadu since 2012.
 ## Tech Stack
 
 - Plain HTML5, CSS3, Vanilla JavaScript — no frameworks, no build tools
-- Font: Google Fonts (to be chosen — suggested: Inter or Lato)
-- Icons: SVGs in assets/images/icons/ or a CDN like Lucide / Font Awesome
-- Hosting: GitHub Pages / Netlify / any static host
+- Font: Google Fonts
+- Icons: SVGs in assets/images/icons
+- Hosting: Vercel
 
 ---
 
@@ -379,5 +379,5 @@ Five thematic sections, each with icon, title, and paragraph:
 
 ---
 
-*README last updated: 2025*
+*README last updated: 2026*
 *Organisation: Hope Ever Foundation, Tamil Nadu, India*
